@@ -76,7 +76,7 @@ def detener_script():
     enviar_archivo_via_sockets(archivo_a_enviar, direccion_ip_destino, puerto_destino)
 
 # Donde enviamos el .txt
-direccion_ip_destino = '192.168.56.111'
+direccion_ip_destino = '192.168.31.198'
 puerto_destino = 8080
 archivo_a_enviar = 'output.txt'
 
