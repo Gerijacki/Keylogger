@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/Gerijacki.png" width="100" alt="Logo"/><br/>
-  Hi 👋, I'm [Gerijacki](https://github.com/Gerijacki)
+  Hi 👋, I'm <a href="https://github.com/Gerijacki">Gerijacki</a> 
 </p>
 
 <p align="center">
